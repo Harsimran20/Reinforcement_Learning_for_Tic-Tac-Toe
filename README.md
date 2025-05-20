@@ -13,3 +13,8 @@ This project implements a Tic-Tac-Toe game environment and a Q-Learning agent th
 ## Technologies
 - Python 3.x
 - NumPy
+## Installation
+Clone the repository and install dependencies:
+git clone <repository-url>
+cd tic-tac-toe-qlearning
+pip install numpy 
